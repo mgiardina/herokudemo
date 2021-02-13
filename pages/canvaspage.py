@@ -8,7 +8,7 @@ from app import app
 
 
 filename =  '../assets/image.png'
-canvas_width = 1500
+canvas_width = 1000
 
 layout = html.Div([
         html.Div([
